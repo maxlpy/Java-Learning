@@ -1,0 +1,20 @@
+<class xmlns="http://maven.apache.org/POM/4.0.0111111">
+   <student rolln="393">
+      <firstname>dinkar</firstname>
+      <lastname>kad</lastname>
+      <nickname>dinkar</nickname>
+      <marks>85</marks>
+   </student>
+   <student rollno="493">
+      <firstname>Vaneet</firstname>
+      <lastname>Gupta</lastname>
+      <nickname>vinni</nickname>
+      <marks>95</marks>
+   </student>
+   <student rollno="593">
+      <firstname>jasvir</firstname>
+      <lastname>singn</lastname>
+      <nickname>jazz</nickname>
+      <marks>90</marks>
+   </student>
+</class>
